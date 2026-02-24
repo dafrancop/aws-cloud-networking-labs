@@ -18,6 +18,8 @@ Hands-on AWS networking and security projects covering VPC design, traffic secur
 | 06 | [VPC Monitoring with Flow Logs](06-vpc-monitoring-flow-logs/) | VPC Flow Logs, CloudWatch Logs Insights, IAM roles for logging |
 | 07 | [Access S3 from a VPC](07-access-s3-from-vpc/) | S3, AWS CLI, access keys, IAM best practices, object uploads |
 | 08 | [Cloud Security with AWS IAM](08-cloud-security-iam/) | IAM users, groups, policies (JSON), tag-based access control, policy simulator |
+| 09 | [VPC Endpoints](09-vpc-endpoints/) | S3 Gateway VPC endpoints, private S3 access, bucket & endpoint policies |
+
 
 ---
 
